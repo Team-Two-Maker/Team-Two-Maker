@@ -11,7 +11,7 @@ Somos uma equipe dedicada à inovação, tecnologia e desenvolvimento de soluç�
 Desenvolver, aprender e compartilhar conhecimento, participando de competições, eventos e projetos colaborativos.
 
 ## 📫 Contato
-- [Instagram](https://instagram.com/st2_maker)
+- [Instagram](https://instagram.com/t2_maker)
 - [YouTube](https://www.youtube.com/@T2_MAKER)
 
 ---

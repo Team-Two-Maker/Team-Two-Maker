@@ -2,8 +2,6 @@
 
 Este é o repositório oficial da equipe de robótica **Team Two**!  
 
----
-
 ## 🚀 Áreas de Atuação
 - 💻 **Programação**
 - 💡 **Sistemas Embarcados**
@@ -11,7 +9,6 @@ Este é o repositório oficial da equipe de robótica **Team Two**!
 - 🔧 **Modelagem e Impressão 3D**
 - 🤖 **Desenvolvimento de robôs**
 
----
 
 ## 🛠️ Ferramentas e Tecnologias que Utilizamos
 
@@ -34,12 +31,10 @@ Este é o repositório oficial da equipe de robótica **Team Two**!
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
----
 
 ## 🌟 Nossa Missão
 > **Desenvolver, aprender e compartilhar conhecimento**, participando de competições, eventos e projetos que desafiam nossos limites e estimulam a criatividade.
 
----
 
 ## 🔗 Conecte-se conosco
 <p>
